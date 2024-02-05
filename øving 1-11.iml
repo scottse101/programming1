@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="CheckStyle-IDEA-Module" serialisationVersion="2">
+    <option name="activeLocationsIds" />
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/øving1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/øving2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/øving3" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/øving4" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/øving5" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/øving6" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/øving7" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/øving8" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/øving10" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/øving9" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/øving11" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
